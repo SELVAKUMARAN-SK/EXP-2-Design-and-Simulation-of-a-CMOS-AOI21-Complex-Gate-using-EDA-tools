@@ -89,3 +89,4 @@ To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its e
 
 
 
+
